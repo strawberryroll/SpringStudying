@@ -104,4 +104,5 @@ public class ArticleController {
         // 3. 결과 페이지로 리다이렉트하기
         return "redirect:/articles";
     }
+
 }
